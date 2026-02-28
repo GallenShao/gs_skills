@@ -12,12 +12,8 @@ OpenClaw skills collection.
 
 ## Usage
 
-```bash
-# Copy skill to your skills directory
-cp -r <skill-name> ~/.openclaw/workspace/skills/
-
-# Configure and set up cron per skill's SKILL.md
-```
+1. Copy skill: `cp -r <skill-name> ~/.openclaw/workspace/skills/`
+2. Configure: See `<skill-name>/SKILL.md`
 
 ---
 

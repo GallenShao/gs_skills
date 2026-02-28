@@ -1,0 +1,18 @@
+{
+  "$schema": "github-daily-report-config-v1",
+  "_comment": "Copy this file to config.json and fill in your values. All fields are customizable.",
+  
+  "repoPath": "/path/to/your/cloned/repo",
+  "repoUrl": "https://github.com/owner/repo.git",
+  
+  "reportTime": "09:00",
+  "timezone": "Asia/Shanghai",
+  
+  "channel": "<your-channel-id>",
+  "to": "",
+  
+  "language": "auto",
+  "reportDir": "reports/github-daily",
+  "topHighlights": 5,
+  "lookbackHours": 24
+}
